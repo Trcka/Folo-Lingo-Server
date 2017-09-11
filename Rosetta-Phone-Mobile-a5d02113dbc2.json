@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rosetta-phone-mobile",
+  "private_key_id": "a5d02113dbc228165db4e376e7cfb3138f32e362",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQeaPqp2hwJ2T6\nGAQi8iUe5TOsMxdf5iCjCAhhd0pzdeBSUMgI4WupI6+c6PmfHt++jobG4M6ykL1C\nJNnCk7yo1HC30FYsk49YaJFde8DuFVZKq/o5YcK4qHRZl1ZJvDETUvgbCU2XUGx2\nAPT7WwQvv5E8J7S36+P/Ye8/6bxnv1g2z6mpA+ufeqkFZHUuaxuWiFaZ2Eq7xH4G\nJ0We0NHdTkkq2QmsFcrc4d/I0jq0YWbr144HtqSQ+xYPUY0IgiVNMhNiTTPujd+u\nV0ctqrLKWBy2rcuAT1JX5tEu+9gIm07KM6kzm9Xnty7K+U+9W35QJOu/SQC6gRzt\npHOXuS2pAgMBAAECggEACFcs1fRe5FQf0SAmboymwXTMyOQYjdlaf1Sbe4/ELSNK\nB1e3RbYEDUXR2VqaSFxkj0krOU1w7joGHQggT1gtsp5LiKps1NbN+TeMxPNQqY3L\nEHd52N4cBjB/dX6iy4DRlfr1ABA9bWh2AGYYfFkSDVl8urisHUrHv0Bt1pjNX86j\nKrYAHuSGvqWsVuBRyaGRzNVkfTYh1M5TEQagjaXptTY4K06suxiHPf0zcxFZBm/y\nfHk+0b40gDZUYz/GWvlbEWaerDYi+/ZeGFqHdSaoIrz790eVsdTufu3RVyi+3mJj\nE5mKvypwLQJuFbhSWSczSryLF8eRPvbmf8qqXDCVsQKBgQDsidilawopcai6fSBx\n8+ZkZdxU8NmPurIOKNkYOlPkBr5uEuzaZGP+e/pfM5MiN9sMgPaKQv+n1DNSWL3l\nZx0zRDP4UueLaK5k+uyosO8DOWUCAY4K+WdJ/+1/L21EXr/1dQgv7xflUL9E6hPt\nkTSmWniWYp5xXUG89bq9Rgi30QKBgQDhoLQJrOnXrLpEsSsN79YGgEnI5gS8LHoN\n7tYyvFYI6HLkyQ4ppcyj0iX71N9nAeyKstS/u52r4btsjFpv/3JoOE3EJa5WiOwd\nFQAoAvoSfaaKhVNnjin3cRCAzA6oUTr77Y+2h+MdW3f83tnITZyvPjq8wJxJSD/c\nz6AtPzRmWQKBgQCQBPI67ax3RXPlcFAz8bwCvx5jPW5KG/NTub1NCh6QBScnYDCE\nXIGhrhzooD9ioz2lJFR4JIkCx6oj5lJg/eKCl3FJLjk64Zbldv5nS6uLfAOrMAUr\nW2VvYftZ6CeQbFxWeFZu0RXskriSni9aA4JaE1W+wvcTsSNYiQmVOrIOMQKBgAKB\nnn5dBVv39zm8HhZRi7cWxbsNkw/kDpcJCCgYH3yJ2HziHt4nkVZghzt86d5jDxWb\nVvGqS94U69gQ1xBXbhXqSjLbmEwtyTGpgg7vuYdrDeaMBJkp4x10jBJiMed8v4L8\n6JPGfqdc1MBiWVj4Q71Om6htG09VFiCFzemywgpBAoGBALJMPM9mJy7yZu+aTFHv\n1GHKXA1DtCpuzJdkTjVis5rPT3pNS83t+qhubkJwpRxlwTDMs4HPD8iTlK7l4iJg\nAIcKWVBYe4MKNmfnocXaRsA3eBF2RgwkvgZOMDIfYWUYegrHZVC+lWBol8Qso7TC\neU/6hIdriUGtjATNj9MCogxN\n-----END PRIVATE KEY-----\n",
+  "client_email": "users-867@rosetta-phone-mobile.iam.gserviceaccount.com",
+  "client_id": "107496199731817242378",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/users-867%40rosetta-phone-mobile.iam.gserviceaccount.com"
+}
